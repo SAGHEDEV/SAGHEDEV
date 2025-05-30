@@ -7,7 +7,6 @@
   <a href="mailto:abdulhakeem080255@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/SAGHEDEV"><img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/adekola-abdulhakeem-saghe-dev-18132532b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://gradific.com"><img src="https://img.shields.io/badge/Gradific.com-blue?style=for-the-badge" /></a>
 </p>
 
 ---
