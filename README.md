@@ -6,6 +6,7 @@
 <p align="center">
   <a href="mailto:abdulhakeem080255@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/SAGHEDEV"><img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/SAGHE_DEV"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/adekola-abdulhakeem-saghe-dev-18132532b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -52,6 +53,7 @@
 
 - **Email**: [abdulhakeem080255@gmail.com](mailto:abdulhakeem080255@gmail.com)  
 - **GitHub**: [SAGHEDEV](https://github.com/SAGHEDEV)  
+- **Twitter/X**: [Adekol Abdulhakeem](https://x.com/SAGHE_DEV)  
 - **LinkedIn**: [Adekola Abdulhakeem](https://www.linkedin.com/in/adekola-abdulhakeem-saghe-dev-18132532b/)  
 - **WhatsApp**: [+234 (0) 8025567802](https://wa.me/2348025567802)
 
