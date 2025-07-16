@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">Hi there, I'm Adekola Abdulhakeem 👋</h1>
-<h3 align="center">Frontend Developer | Building web experiences that pop, click, and wow 💥</h3>
+<h3 align="center">Frontend Engineer/Developer | Building web experiences that pop, click, and wow 💥</h3>
 
 <p align="center">
   <a href="mailto:abdulhakeem080255@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
