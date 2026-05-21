@@ -54,7 +54,7 @@
 - **Email**: [abdulhakeem080255@gmail.com](mailto:abdulhakeem080255@gmail.com)  
 - **GitHub**: [SAGHEDEV](https://github.com/SAGHEDEV)  
 - **Twitter/X**: [Adekol Abdulhakeem](https://x.com/SAGHE_DEV)  
-- **LinkedIn**: [Adekola Abdulhakeem](https://www.linkedin.com/in/adekola-abdulhakeem-saghe-dev-18132532b/)  
+- **LinkedIn**: [Adekola Abdulhakeem](https://www.linkedin.com/in/saghedev)  
 - **WhatsApp**: [+234 (0) 8025567802](https://wa.me/2348025567802)
 
 ---
