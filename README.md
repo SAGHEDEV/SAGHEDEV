@@ -15,7 +15,7 @@
 ## 🔍 Summary
 
 🌍 Based in Lagos, Nigeria  
-🧠 3 years of experience crafting responsive, accessible, and engaging UIs  
+🧠 4 years of experience crafting responsive, accessible, and engaging UIs  
 ⚡ Obsessed with performance, SEO, and accessibility  
 🚀 Lifelong learner keeping up with bleeding-edge web trends  
 
